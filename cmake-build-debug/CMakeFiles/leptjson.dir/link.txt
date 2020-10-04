@@ -1,0 +1,2 @@
+/bin/ar qc libleptjson.a  CMakeFiles/leptjson.dir/src/leptjson.c.o
+/bin/ranlib libleptjson.a

@@ -1,0 +1,1 @@
+/bin/gcc -g   CMakeFiles/json_tutorial.dir/src/test.c.o  -o json_tutorial 
